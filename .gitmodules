@@ -1,0 +1,3 @@
+[submodule "RT-Cadmium-Blinky"]
+	path = RT-Cadmium-Blinky
+	url = https://github.com/SimulationEverywhere/RT-Cadmium-Blinky
