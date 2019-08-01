@@ -1,3 +1,6 @@
 [submodule "RT-Cadmium-Blinky"]
 	path = Blinky
 	url = https://github.com/SimulationEverywhere/RT-Cadmium-Blinky
+[submodule "SeeedBot"]
+	path = SeeedBot
+	url = https://github.com/SimulationEverywhere/RT-Cadmium-SeeedBot
