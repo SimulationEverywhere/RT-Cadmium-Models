@@ -13,3 +13,9 @@
 [submodule "DISCO-Demo"]
 	path = DISCO-Demo
 	url = https://github.com/SimulationEverywhere/RT-Cadmium-DISCO-Demo/
+[submodule "Building-Controller"]
+	path = Building-Controller
+	url = https://github.com/SimulationEverywhere/RT-Cadmium-Building-Controller
+[submodule "Blind-and-Lighting-Controller"]
+	path = Blind-and-Lighting-Controller
+	url = https://github.com/SimulationEverywhere/RT-Cadmium-Blind-and-Lighting-Controller
