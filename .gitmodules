@@ -4,3 +4,9 @@
 [submodule "SeeedBot"]
 	path = SeeedBot
 	url = https://github.com/SimulationEverywhere/RT-Cadmium-SeeedBot
+[submodule "AverageInputs"]
+	path = AverageInputs
+	url = https://github.com/SimulationEverywhere/RT-Cadmium-AverageInputs
+[submodule "MajorityVote"]
+	path = MajorityVote
+	url = https://github.com/SimulationEverywhere/RT-Cadmium-MajorityVote
