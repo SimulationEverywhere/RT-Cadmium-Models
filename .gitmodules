@@ -22,3 +22,6 @@
 [submodule "SeeedBot-UltraSonic"]
 	path = SeeedBot-UltraSonic
 	url = https://github.com/SimulationEverywhere/RT-Cadmium-SeeedBot-UltraSonic
+[submodule "SeeedBot-Light-Follower"]
+	path = SeeedBot-Light-Follower
+	url = https://github.com/SimulationEverywhere/RT-Cadmium-SeeedBot-Light-Follower
