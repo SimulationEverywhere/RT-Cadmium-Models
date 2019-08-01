@@ -10,3 +10,6 @@
 [submodule "MajorityVote"]
 	path = MajorityVote
 	url = https://github.com/SimulationEverywhere/RT-Cadmium-MajorityVote
+[submodule "DISCO-Demo"]
+	path = DISCO-Demo
+	url = https://github.com/SimulationEverywhere/RT-Cadmium-DISCO-Demo/
