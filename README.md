@@ -5,4 +5,4 @@ To download all models run clone this repo then run:
 > git submodule update --init --recursive
 
 To download an individual model (ex, Blinky) run:
-> git submodule update --init --remote --recursive -- RT-Cadmium-Blinky/
+> git submodule update --init --remote --recursive -- Blinky/
