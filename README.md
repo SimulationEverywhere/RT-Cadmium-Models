@@ -1,5 +1,5 @@
 # RT-Cadmium-Models
-This is a parent repository containing a reference to all RT-Cadmium models. 
+This is a parent repository containing a reference to RT-Cadmium models developed by ARSLab at Carleton University.
 
 To download all models run clone this repo then run: 
 > git submodule update --init --recursive
