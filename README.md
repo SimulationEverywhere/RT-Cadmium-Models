@@ -6,3 +6,5 @@ To download all models run clone this repo then run:
 
 To download an individual model (ex, Blinky) run:
 > git submodule update --init --remote --recursive -- Blinky/
+
+If it is your first time running a RT-Cadmium model run "install.sh" to download cadmium and setup your environment. 
