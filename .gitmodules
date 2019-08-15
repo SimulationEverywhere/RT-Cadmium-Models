@@ -7,9 +7,6 @@
 [submodule "AverageInputs"]
 	path = AverageInputs
 	url = https://github.com/SimulationEverywhere/RT-Cadmium-AverageInputs
-[submodule "MajorityVote"]
-	path = MajorityVote
-	url = https://github.com/SimulationEverywhere/RT-Cadmium-MajorityVote
 [submodule "DISCO-Demo"]
 	path = DISCO-Demo
 	url = https://github.com/SimulationEverywhere/RT-Cadmium-DISCO-Demo/
@@ -19,9 +16,6 @@
 [submodule "Blind-and-Lighting-Controller"]
 	path = Blind-and-Lighting-Controller
 	url = https://github.com/SimulationEverywhere/RT-Cadmium-Blind-and-Lighting-Controller
-[submodule "SeeedBot-UltraSonic"]
-	path = SeeedBot-UltraSonic
-	url = https://github.com/SimulationEverywhere/RT-Cadmium-SeeedBot-UltraSonic
 [submodule "SeeedBot-Light-Follower"]
 	path = SeeedBot-Light-Follower
 	url = https://github.com/SimulationEverywhere/RT-Cadmium-SeeedBot-Light-Follower
